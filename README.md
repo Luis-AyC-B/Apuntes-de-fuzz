@@ -3,6 +3,7 @@
 ## ¿Qué es el Fuzzing?
 
 El fuzzing (o fuzz testing) es una técnica de prueba de software que implica proporcionar datos de entrada aleatorios a un programa con el objetivo de encontrar errores y vulnerabilidades. Es particularmente útil para identificar problemas de seguridad y errores de manejo de excepciones.
+En mis palabras seria mandar muchas peticiones a una pagina para ver su vulnerabilidad.
 
 
 ## Tipos de Fuzzing
